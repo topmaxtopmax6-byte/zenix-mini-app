@@ -1,4 +1,4 @@
-🎮 Zenix Top-Up Bot
+k🎮 Zenix Top-Up Bot
 
 Welcome to Zenix Top-Up, a Telegram bot project for game top-ups.
 
